@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Emad Lashakry 👋
+I'm a web developer from Mashhad, and I'm currently studying Computer Science at Azad University. I'm deeply passionate about learning and expanding my knowledge in web development.
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    
+I have a strong interest in web development, and I love exploring new technologies and frameworks. My current focus is on mastering React and Next.js and useful React libraries.
+
+I believe in continuous learning and enjoy keeping up with the latest trends in web development. I'm always open to new challenges and opportunities to grow.
+
+<div align="center">
+
 ### Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&logoWidth=20)
@@ -20,7 +25,7 @@
 
 </div>
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+<div align="center">
 
 ### GitHub Stats
 
@@ -28,19 +33,18 @@
 
 </div>
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+<div align="center">
 
 ### GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=3)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=10&column=3)
 
 </div>
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+
+
+<div align="center">
 
 ### Random Dev Quotes
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1" style="margin: 10px; max-width: 90%; border-radius: 5px;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote 2" style="margin: 10px; max-width: 90%; border-radius: 5px;">
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1">
 </div>
