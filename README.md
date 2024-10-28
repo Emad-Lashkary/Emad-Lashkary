@@ -32,7 +32,7 @@
 
 ### GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=3)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=10&column=3)
 
 </div>
 
