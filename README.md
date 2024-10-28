@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+
 ### Tech Stack
+
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&logoWidth=20)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=20)
@@ -14,6 +17,9 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-db7093?logo=styled-components&logoColor=white&logoWidth=20)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&logoWidth=20)
 ![Shadcn](https://img.shields.io/badge/Shadcn-000000?logo=react&logoColor=white&logoWidth=20)
+
+</div>
+
 
 
 <!--
