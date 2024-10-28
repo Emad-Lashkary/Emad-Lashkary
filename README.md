@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Tech Stack
+![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)
+
 <!--
 **Emad-Lashkary/Emad-Lashkary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
