@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 ### Tech Stack
-![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&logoWidth=20)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=20)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&logoWidth=20)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&logoWidth=20)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=20)
 
 <!--
 **Emad-Lashkary/Emad-Lashkary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
