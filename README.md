@@ -28,6 +28,10 @@
 
 </div>
 
+### GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+
+
 
 <!--
 **Emad-Lashkary/Emad-Lashkary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
