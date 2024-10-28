@@ -1,4 +1,4 @@
-## Hi there, I'm Emad Lashakry 👋
+## Hi there, I'm Emad Lashakry
 I'm a web developer from Mashhad, and I'm currently studying Computer Science at Azad University. I'm deeply passionate about learning and expanding my knowledge in web development.
 
 I have a strong interest in web development, and I love exploring new technologies and frameworks. My current focus is on mastering React and Next.js and useful React libraries.
