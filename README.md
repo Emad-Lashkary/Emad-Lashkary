@@ -38,14 +38,15 @@
 
 
 
-<div align="center">
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 ### Random Dev Quotes
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote 2">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1" style="margin: 10px; max-width: 90%; border-radius: 5px;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote 2" style="margin: 10px; max-width: 90%; border-radius: 5px;">
 
 </div>
+
 
 
 
