@@ -36,8 +36,25 @@
 
 </div>
 
-### Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+### Random Dev Quotes
+
+<div style="max-height: 200px; overflow-y: scroll;">
+  ![Dev Quote 1](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 2](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 3](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 5](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 6](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 7](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 8](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 9](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Dev Quote 10](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+</div>
+
 
 
 
