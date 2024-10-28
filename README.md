@@ -42,20 +42,21 @@
 
 ### Random Dev Quotes
 
-<div style="height: 200px; overflow-y: scroll; text-align: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 1">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 2">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 3">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 4">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 5">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 6">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 7">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 8">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 9">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote 10">
+<div style="max-height: 200px; overflow-y: scroll;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote 2">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=3" alt="Dev Quote 3">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=4" alt="Dev Quote 4">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=5" alt="Dev Quote 5">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=6" alt="Dev Quote 6">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=7" alt="Dev Quote 7">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=8" alt="Dev Quote 8">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=9" alt="Dev Quote 9">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=10" alt="Dev Quote 10">
 </div>
 
 </div>
+
 
 
 
