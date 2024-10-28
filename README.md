@@ -28,8 +28,14 @@
 
 </div>
 
+<div align="center">
+
 ### GitHub Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+
+</div>
+
 
 
 
