@@ -23,7 +23,7 @@ I believe in continuous learning and enjoy keeping up with the latest trends in 
 <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=20)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=20)
-![Context API](https://img.shields.io/badge/Context_API-green?logo=react&logoColor=white&logoWidth=20)
+![Context API](https://img.shields.io/badge/Context_API-yellow?logo=react&logoColor=white&logoWidth=20)
 <br/>
 ![Styled Components](https://img.shields.io/badge/Styled_Components-db7093?logo=styled-components&logoColor=white&logoWidth=20)
 
