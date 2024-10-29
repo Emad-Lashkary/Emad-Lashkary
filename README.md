@@ -14,6 +14,7 @@ I believe in continuous learning and enjoy keeping up with the latest trends in 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=20)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&logoWidth=20)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&logoWidth=20)
+<br/>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=20)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&logoWidth=20)
 ![Context API](https://img.shields.io/badge/Context_API-green?logo=react&logoColor=white&logoWidth=20)
