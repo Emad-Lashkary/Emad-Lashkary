@@ -3,7 +3,7 @@ I'm a frontend developer from Mashhad, and I'm currently studying Computer engin
 
 I have a strong interest in web development, and I love exploring new technologies and frameworks. My current focus is on mastering React and Next.js and useful React libraries.
 
-I believe in continuous learning and enjoy keeping up with the latest trends in web development. I'm always open to new challenges and opportunities to grow.
+I believe in continuous learning and enjoy keeping up with the latest trends in web development. I'm always open to new challenges and opportunities to grow..
 
 <div align="center">
 
