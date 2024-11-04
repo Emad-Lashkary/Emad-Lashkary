@@ -52,4 +52,3 @@ I believe in continuous learning and enjoy keeping up with the latest trends in 
 ### Random Dev Quotes
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev Quote 1">
 </div>
-.
