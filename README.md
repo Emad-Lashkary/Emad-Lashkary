@@ -1,5 +1,5 @@
 ## Hi there, I'm Emad Lashakry.
-
+.
 I'm a frontend developer from Mashhad, and I'm currently studying Computer engineering at Azad University. I'm deeply passionate about learning and expanding my knowledge in frontend development. I also intrested to learn new things that I have not experienced yet.
 
 I have a strong interest in web development, and I love exploring new technologies and frameworks. My current focus is on mastering React and Next.js and useful React libraries.
